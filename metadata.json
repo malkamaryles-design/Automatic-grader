@@ -1,0 +1,8 @@
+{
+  "name": "GradeCode IL - בודק מבחני קוד בכתב יד",
+  "description": "מערכת מקצועית לבדיקה, פענוח והערכת מבחנים במדעי המחשב בכתב יד בעברית עם משוב פדגוגי מובנה וציון מפורט.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
